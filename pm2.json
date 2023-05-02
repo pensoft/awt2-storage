@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "ps-article-storage",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
